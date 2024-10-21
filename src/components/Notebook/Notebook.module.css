@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputt {
+    margin-bottom: 20px;
+    width: 400px;
+    height: 40px;
+    border: 3px solid #6C63FF;
+    border-radius: 10px;
+}
+
+.textArea {
+    width: 500px;
+    height: 200px;
+    border: 3px solid #6C63FF;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: #6C63FF;
+    width: 200px;
+    height: 40px;
+    border: 3px solid black;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
